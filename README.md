@@ -1,4 +1,5 @@
 # News Updates App
+![Screenshot (308)](https://github.com/user-attachments/assets/b9475a0a-12f2-41ba-99f3-d3d73db8dc8b)
 
 This project is a React-based web application that provides users with the latest news updates on various topics and top headlines. The app fetches data from a news API and displays the latest news 
 articles with options to filter by category, region, or keyword.
